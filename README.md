@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deperiv
 - 👀 I’m interested in data science, AI and web development 
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development and data science
+- 💞️ I’m looking to collaborate on data science web development and 
 - 📫 How to reach me: danielpblog2014@gmail.com
 
 <!---
